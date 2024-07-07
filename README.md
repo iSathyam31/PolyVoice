@@ -12,8 +12,6 @@ PolyVoice/
 ├── src/
 │   ├── __init__.py
 │   └── helper.py
-├── assets/
-│   └── demo.mp4
 ├── .gitignore
 ├── LICENSE
 ├── README.md
