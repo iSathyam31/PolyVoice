@@ -10,8 +10,7 @@ list_of_files = [
     ".env",
     "requirements.txt",
     "setup.py",
-    "app.py",
-    "assets/x.txt"
+    "app.py"
 ]
 
 
